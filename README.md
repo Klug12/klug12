@@ -1,6 +1,8 @@
 
 ### Prazer, sou Rodrigo Klug 💺🛩️
 <p>📚🎓 Graduando em Análise e Desenvolvimento de Sistemas e Engenharia Mecânica</p>
+<p>💻🌐 Sou Programador/ Desenvolvedor Back-End</p>
+
 <p>Sou Mecânico de Aeronaves, campeão de robótica, e apaixonado por tecnologias. Entrando no mundo da programação!!</p>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-klug/)
