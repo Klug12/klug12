@@ -1,5 +1,7 @@
 
 ### Prazer, sou Rodrigo Klug 💺🛩️
+Curso Análise e Desenvolvimento de Sistemas e Engenharia Mecânica.
+Sou Mecânico de Aeronaves, campeão de robótica, e apaixonado por tecnologias. Entrando no mundo da programação!!
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-klug/)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rodrigo.klug.9/)
@@ -8,5 +10,4 @@
 
 ![klug12 GitHub stats](https://github-readme-stats.vercel.app/api?username=klug12&show_icons=true&theme=merko)
 
-Curso Análise e Desenvolvimento de Sistemas e Engenharia Mecânica.
-Sou Mecânico de Aeronaves, campeão de robótica, e apaixonado por tecnologias. Entrando no mundo da programação!!
+
