@@ -12,5 +12,5 @@
 
 ## Biografia Profissional
 
-<p> Formado como Mecânico de Aeronaves, atuei na profissão por 7 anos, sou campeão de robótica VEX particpando inclusive no campeonato mundial, e como sou apaixonado por tecnologias estou entrando no mundo da programação!! </p>
+<p> Formado como Mecânico de Aeronaves, atuei na profissão por 7 anos, sou campeão de robótica VEX participando inclusive no campeonato mundial, e como sou apaixonado por tecnologias estou entrando no mundo da programação!! </p>
 
