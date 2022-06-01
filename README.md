@@ -1,7 +1,7 @@
 
 ### Prazer, sou Rodrigo Klug 💺🛩️
-<p>📚🎓 Graduando em Análise e Desenvolvimento de Sistemas e Engenharia Mecânica</p>
-<p>💻🌐 Sou Programador/ Desenvolvedor Back-End</p>
+<p>📚🎓 Graduando em Análise e Desenvolvimento de Sistemas / Engenharia Mecânica</p>
+<p>💻🌐 Sou Programador/ Desenvolvedor</p>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-klug/)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rodrigo.klug.9/)
