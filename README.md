@@ -1,7 +1,7 @@
 
 ### Prazer, sou Rodrigo Klug 💺🛩️
 <p>📚🎓 Graduado em Análise e Desenvolvimento de Sistemas / Engenharia Mecânica</p>
-<p>💻🌐 Sou Programador/ Desenvolvedor</p>
+<p>💻🌐 Programador/ Desenvolvedor</p>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-klug/)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rodrigo.klug.9/)
@@ -12,5 +12,7 @@
 
 ## Biografia Profissional
 
-<p> Formado como Mecânico de Aeronaves, atuei na profissão por 7 anos, sou campeão de robótica VEX participando inclusive no campeonato mundial, e como sou apaixonado por tecnologias estou entrando no mundo da programação!! </p>
+<p> -> Mecânico de Aeronaves, atuei na profissão por 7 anos 
+  -> Sou campeão de robótica VEX participando inclusive no campeonato mundial
+  -> E apaixonado por tecnologias desde sempre!! </p>
 
