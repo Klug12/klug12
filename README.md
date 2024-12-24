@@ -12,7 +12,7 @@
 
 ## Biografia Profissional
 
-<p> -> Mecânico de Aeronaves, atuei na profissão por 7 anos 
-  -> Sou campeão de robótica VEX participando inclusive no campeonato mundial
+<p> -> Mecânico de Aeronaves, atuei na profissão por 7 anos <br/> 
+  -> Sou campeão de robótica VEX participando inclusive no campeonato mundial <br/>
   -> E apaixonado por tecnologias desde sempre!! </p>
 
